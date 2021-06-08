@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "slys_starting_spots",
+    "name": "Sly's Starting Spots",
+    "description": "Changes, rebalances and adds some more mutations. This also has random shit/gear I added to experiment with, and monsters that wont spawn into the game naturally but you can sapwn them yourself, etc.  load this after CRIT to get the full vampire/improved mutation tweaking experience.",
+    "category": "rebalance",
+    "authors": [ "The Sly Somnambulist" ],
+    "dependencies": [ "dda" ]
+  }
+]

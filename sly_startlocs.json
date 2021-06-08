@@ -1,0 +1,44 @@
+[
+{
+    "type": "start_location",
+    "id": "sloc_bunker",
+    "name": "Military Bunker",
+	"terrain": [ "bunker" ]
+},
+{
+    "type": "start_location",
+    "id": "sloc_animalshelter",
+    "name": "Animal Shelter",
+	"terrain": [ "animalshelter" ]
+},
+{
+    "type": "start_location",
+    "id": "sloc_veterinarian",
+    "name": "Vet's Office",
+	"terrain": [ "veterinarian" ]
+},
+{
+    "type": "start_location",
+    "id": "sloc_animalpound",
+    "name": "Animal Pound",
+	"terrain": [ "animalpound" ]
+},
+{
+    "type": "start_location",
+    "id": "sloc_ws_fire_lookout_tower_base",
+    "name": "Fire Lookout Tower Base",
+	"terrain": [ "ws_fire_lookout_tower_base" ]
+},
+{
+    "type": "start_location",
+    "id": "sloc_ws_fire_lookout_tower_f1",
+    "name": "Fire Lookout Tower Floor 1",
+	"terrain": [ "ws_fire_lookout_tower_f1" ]
+},
+{
+    "type": "start_location",
+    "id": "sloc_ws_fire_lookout_tower_f2",
+    "name": "Fire Lookout Tower Floor 2",
+	"terrain": [ "ws_fire_lookout_tower_f2" ]
+}
+]  
