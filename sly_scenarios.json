@@ -61,8 +61,8 @@
 		  "NIGHTVISION2",
 		  "HOLLOW_BONES"
 		],
-    "points": 1,
-    "description": "It ended.  The world ended, and throughout all the chaos and man showing its inhumanity to man in a desperate scrabble to escape, one hysterical thought overwhelmed all your own: the animals!  People, at least, had a fighting chance.  THey could run, they could open doors, they could steal from one-another and drive cars.  The animals?  They're trapped, doomed to be eaten by monsters or to starve to death in tiny cages, abandoned and alone.  No.  That won't be happening.  Not while you're around.  Besides, animals have always treated you better than any human ever has.",
+    "points": -3,
+    "description": "It ended.  The world ended, and throughout all the chaos and man showing its inhumanity to man in a desperate scrabble to escape, one hysterical thought overwhelmed all your own: the animals!  People, at least, had a fighting chance.  They could run, they could open doors, they could steal from one-another and drive cars.  The animals?  They're trapped, doomed to be eaten by monsters or to starve to death in tiny cages, abandoned and alone.  No.  That won't be happening.  Not while you're around.  Besides, animals have always treated you better than any human ever has.",
 	"forced_traits": [ "ANIMALEMPATH2", "NIGHTVISION", "LIGHTSTEP", "ROBUST" ],
     "allowed_locs": [ "sloc_animalshelter", "sloc_veterinarian", "sloc_animalpound" ]
   },

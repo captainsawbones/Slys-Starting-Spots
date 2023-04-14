@@ -1,12 +1,6 @@
 [
 {
     "type": "start_location",
-    "id": "sloc_bunker",
-    "name": "Military Bunker",
-	"terrain": [ "bunker" ]
-},
-{
-    "type": "start_location",
     "id": "sloc_animalshelter",
     "name": "Animal Shelter",
 	"terrain": [ "animalshelter" ]
